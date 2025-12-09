@@ -7,3 +7,4 @@
 
 ## Instructions
 - peel avocado
+- squeeze lime
