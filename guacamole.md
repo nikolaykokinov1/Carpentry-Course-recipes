@@ -5,3 +5,4 @@
 - salt
 ## Instructions
 - peel avocado
+- squeeze lime
